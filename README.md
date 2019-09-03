@@ -25,4 +25,3 @@ Xiaomi Redmi Note 7 was announced and released in January 2019.
 
 ![Xiaomi Redmi Note 7](https://i1.mifile.cn/f/i/2019/redminote7/summary/index-bg.jpg)
 # android_device_xiaomi_lavender
-# android_device_xiaomi_lavender

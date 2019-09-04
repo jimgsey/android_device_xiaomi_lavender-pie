@@ -165,6 +165,7 @@ TARGET_ENABLE_MEDIADRM_64 := true
 TARGET_TAP_TO_WAKE_NODE := "/proc/tp_gesture"
 
 # Filesystem
+TARGET_USES_MKE2FS := true
 TARGET_FS_CONFIG_GEN := $(DEVICE_PATH)/config.fs
 
 # FM

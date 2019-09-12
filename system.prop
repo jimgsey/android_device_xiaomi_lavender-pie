@@ -274,10 +274,8 @@ persist.dbg.vt_avail_ovr=1
 persist.radio.VT_HYBRID_ENABLE=1
 
 # dpi
-ro.sf.lcd_density=440
+ro.sf.lcd_density=420
 
 # proximity
 gsm.proximity.enable=true
 
-# HavocOS
-ro.havoc.maintainer=DarkDroidDev

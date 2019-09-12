@@ -232,7 +232,10 @@ TARGET_RIL_VARIANT := caf
 TARGET_USES_OLD_MNC_FORMAT := true
 
 # Security patch level
-VENDOR_SECURITY_PATCH := 2019-08-05
+VENDOR_SECURITY_PATCH := 2019-09-01
+
+# Use mke2fs to create ext4 images
+TARGET_USES_MKE2FS := true
 
 # Seccomp
 BOARD_SECCOMP_POLICY := $(DEVICE_PATH)/seccomp

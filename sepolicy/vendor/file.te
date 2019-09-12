@@ -16,3 +16,6 @@ type vendor_keylayout_file, file_type, vendor_file_type;
 
 # Pocket judge
 type sysfs_inpocket, fs_type, sysfs_type;
+
+# WLAN from QCOM
+type sysfs_wlan_qcom, fs_type, sysfs_type;
